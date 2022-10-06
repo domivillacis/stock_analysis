@@ -38,6 +38,6 @@ As a final result, we can see that we have executed the same analysis with diffe
 
 One of the advantages of refactoring a code is that we can simplify it to improve the result of data collection or running times; however, we can fall into a serious confusion if we do not do it correctly.
 
-Changing a code also means creating confusion for the next programmer who has access to this information. For this reason, it is always a good idea to write notes to point out what exactly that written code is working on and making use of whitespace and indentation can definitely help make code readable and understandable.
+Changing a code also means creating confusion for the next programmer who has access to this information. For this reason, it is always a good idea to write notes to point out how the code is built. Making use of whitespace and indentation can also help make the code readable and understandable.
 
-In our current Excel spreadsheet we have important information to get the required data but at the same time this worksheet does not contain as much information as other spreadsheets. So code simplification can definitely be helpful in getting data and improving running times.
+Our current Excel worksheet contains a significant amount of information but at the same time this worksheet does not contain as much information as other worksheets could. Therefore, code simplification can definitely be helpful in getting data and improving running times.
