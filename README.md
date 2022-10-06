@@ -1,7 +1,7 @@
 # Green Stocks Analysis
 ## Overview of Project
 To start this project I have been approached by Steve, who recently got his degree in finance and is helping his parents invest in the stock market. 
-His parents are interested in investing solely in green energy stocks, but Steve thinks his parents should diversify their investments.
+His parents are interested in investing solely in green energy stocks (DQ), but Steve thinks his parents should diversify their investments.
 
 In this project, we are going to review the trading performance of the specific stock Steve's parents want to invest in, compared to the performance of all stocks in 2018, and analyse whether or not it is profitable to invest. We are going to use Visual Basic for Applications (VBA) programming language, which will allow us to effitiently code the exact data we need to make this comparison and get relevant data to help Steve's family invest successfully.
 
@@ -10,7 +10,7 @@ In this project, we are going to review the trading performance of the specific 
 
 To obtain relevant data, we started by creating 3 values that helped us with the calculation: “Year”, “Total Daily Volume” (the total number of shares traded throughout the year) and “Return” (the percentage difference in price from the beginning to the end of the year).
 
-The findings of the first analysis based on the yearly return results is, that DQ trading shares in 2018 dropped by 63%; meaning that right now this stock is not worth the investment. 
+The findings of the first analysis based on the yearly return results is, that DQ trading shares in 2018 dropped by 63%; thus I would advise not investing in it.
 
 <img width="408" alt="DQ_Stocks" src="https://user-images.githubusercontent.com/112814924/194395615-20e29cf6-8dd7-4d71-8073-6c4c60a8ddc1.png">
 
