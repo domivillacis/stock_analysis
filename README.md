@@ -11,11 +11,11 @@ For 2018, I started analysing specifically the shares traded by the DQ stock. To
 
 As a result, the findings of the first analysis is that DQ shares in 2018 fell by 63%, and that means, right now is not the best time to invest in this green stock. However, 2 other stocks performed better in that.
 
-![](DQ_Stocks.png)
+<img width="408" alt="DQ_Stocks" src="https://user-images.githubusercontent.com/112814924/194395615-20e29cf6-8dd7-4d71-8073-6c4c60a8ddc1.png">
 
 On the other hand, I have also analyzed the performance of all the stocks in 2018. As we can see, the data of our results are not favorable, only two stocks that are ENPH and RUN had positive traded shares.
 
-![](All_stocks_performance.png)
+<img width="670" alt="All_stocks_performance" src="https://user-images.githubusercontent.com/112814924/194395642-c976913b-ed79-4fcc-85c3-eeecf9bc5b6c.png">
 
 
 
