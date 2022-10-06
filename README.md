@@ -17,9 +17,25 @@ On the other hand, I have also analyzed the performance of all the stocks in 201
 
 <img width="670" alt="All_stocks_performance" src="https://user-images.githubusercontent.com/112814924/194395642-c976913b-ed79-4fcc-85c3-eeecf9bc5b6c.png">
 
+We are now going to dive into the technical part of our analysis. To obtain all this data, we have made use of different codes such as for loop, variables, conditionals, arrays, among others.
+
+For 2018, we have executed two different codes, which have allowed us to see exactly the same information but at a different execution time. In our excel worksheet we have 3013 rows with information, and through the codes used, we have been able to achieve better visibility of the data we need. However, all this analysis generates space in our computer and response time.
+Running the the first code from year 2018 has taken 0.25 seconds.
 
 
-## Summary: In a summary statement, address the following questions.
-### What are the advantages or disadvantages of refactoring code?
 
-### How do these pros and cons apply to refactoring the original VBA script?
+And to work more efficiently, we have refactored the code and thus help Steve to obtain the calculation in the shortest possible time and with the same information.
+
+Through the use of arrays, which are practically lists, and looping through them, we have changed the code a little, to obtain the same data but that the running time is the best possible, in our case it has been 0.07 seconds.
+
+
+
+## Summary:
+
+As a final result, we can see that we have executed the same analysis with different codes, both have worked but one has been more efficient than the other.
+
+One of the advantages of refactoring a code is that we can simplify it to improve the result of data collection or running times; however, we can fall into a serious confusion if we do not do it correctly.
+
+Changing a code also means creating confusion for the next programmer who has access to this information. For this reason, it is always a good idea to write notes to point out what exactly that written code is working on and making use of whitespace and indentation can definitely help make code readable and understandable.
+
+In our current Excel spreadsheet we have important information to get the required data but at the same time this worksheet does not contain as much information as other spreadsheets. So code simplification can definitely be helpful in getting data and improving running times.
