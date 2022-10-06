@@ -22,12 +22,13 @@ We are now going to dive into the technical part of our analysis. To obtain all 
 For 2018, we have executed two different codes, which have allowed us to see exactly the same information but at a different execution time. In our excel worksheet we have 3013 rows with information, and through the codes used, we have been able to achieve better visibility of the data we need. However, all this analysis generates space in our computer and response time.
 Running the the first code from year 2018 has taken 0.25 seconds.
 
-
+<img width="930" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/112814924/194407360-79f4f5d1-1767-4105-9968-d538116ade90.png">
 
 And to work more efficiently, we have refactored the code and thus help Steve to obtain the calculation in the shortest possible time and with the same information.
 
 Through the use of arrays, which are practically lists, and looping through them, we have changed the code a little, to obtain the same data but that the running time is the best possible, in our case it has been 0.07 seconds.
 
+<img width="929" alt="VBA_Challenge_R_2018" src="https://user-images.githubusercontent.com/112814924/194407419-cf207271-5d73-40a1-b17f-57a17ee58bcc.png">
 
 
 ## Summary:
