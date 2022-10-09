@@ -3,7 +3,7 @@
 To start this project I have been approached by Steve, who recently got his degree in finance and is helping his parents invest in the stock market. 
 His parents are interested in investing solely in green energy stocks (DQ), but Steve thinks his parents should diversify their investments.
 
-In this project, we are going to review the trading performance of the specific stock Steve's parents want to invest in, compared to the performance of all stocks in 2018, and analyse whether or not it is profitable to invest. We are going to use Visual Basic for Applications (VBA) programming language, which will allow us to effitiently code the exact data we need to make this comparison and get relevant data to help Steve's family invest successfully.
+In this project, we are going to review the trading performance of the specific stock Steve's parents want to invest in, compared to the performance of all stocks in 2018, and analyse whether or not it is profitable to invest. We are going to use Visual Basic for Applications (VBA) programming language, which will allow us to efficiently code the exact data we need to make this comparison and get relevant data to help Steve's family invest successfully.
 
 
 ## Results: 
